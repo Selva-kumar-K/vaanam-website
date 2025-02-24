@@ -1,52 +1,133 @@
 export const navMenus = [
   {
     label: "home",
-    href: "/",
+    href: "#",
   },
   {
     label: "services",
-    href: "/services",
+    href: "#",
     dropdown: [
       {
         label: "Enterprise Application",
-        href: "/services/web-development",
+        href: "#",
       },
       {
         label: "Microsoft Services",
-        href: "/services/mobile-development",
+        href: "#",
       },
       {
         label: "Ai and ML Services",
-        href: "/services/ui-ux-design",
+        href: "#",
       },
       {
         label: "Mobility Services",
-        href: "/services/mobility-services",
+        href: "#",
       },
       {
         label: "Business Intelligence",
-        href: "/services/business-intelligence",
+        href: "#",
       },
       {
         label: "Reality Technologies    ",
-        href: "/services/reality-technologies",
+        href: "#",
       },
     ],
   },
   {
     label: "our products",
-    href: "/products",
+    href: "#",
   },
   {
     label: "our clients",
-    href: "/clients",
+    href: "#",
   },
   {
     label: "about us",
-    href: "/about",
+    href: "#",
   },
   {
     label: "contact us",
-    href: "/contact",
+    href: "#",
+  },
+];
+
+export const quickLinks = [
+  {
+    label: "Home",
+    href: "#",
+  },
+  {
+    label: "about us",
+    href: "#",
+  },
+  {
+    label: "contact us",
+    href: "#",
+  },
+  {
+    label: "news",
+    href: "#",
+  },
+  {
+    label: "career - india",
+    href: "#",
+  },
+  {
+    label: "career - usa",
+    href: "#",
+  },
+  {
+    label: "apply for h1B",
+    href: "#",
+  },
+];
+
+export const services = [
+  {
+    label: "Enterprise Application",
+    href: "#",
+  },
+  {
+    label: "Microsoft Services",
+    href: "#",
+  },
+  {
+    label: "Ai and ML Services",
+    href: "#",
+  },
+  {
+    label: "Mobility Services",
+    href: "#",
+  },
+  {
+    label: "Business Intelligence",
+    href: "#",
+  },
+  {
+    label: "Reality Technologies    ",
+    href: "#",
+  },
+];
+
+export const products = [
+  {
+    label: "StudioMart",
+    href: "#",
+  },
+  {
+    label: "SMIL-E",
+    href: "#",
+  },
+  {
+    label: "SpotMyPhotographer",
+    href: "#",
+  },
+  {
+    label: "Foto Leaf",
+    href: "#",
+  },
+  {
+    label: "Tons Of Memories",
+    href: "#",
   },
 ];

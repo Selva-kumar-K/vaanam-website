@@ -16,6 +16,10 @@ export default {
         josefin: ["Josefin Sans", "sans-serif"],
       },
     },
+    backgroundImage: {
+      "hero-bg-img": "url('/hero-bg-img.jpg')",
+      "footer-bg-img": "url('/world map vector.jpg')",
+    },
   },
   plugins: [],
 } satisfies Config;
