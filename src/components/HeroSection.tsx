@@ -1,6 +1,4 @@
-import Image from "next/image";
 import React from "react";
-import Home from "./../../public/home-icon.svg";
 
 export default function HeroSection() {
   return (
